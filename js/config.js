@@ -1,6 +1,6 @@
 /* EDIT THIS FILE: your store settings */
 window.CONFIG = {
-  storeName: "Your Store Name",
+  storeName: "Waleed Web Studio",
   tagline: "Ready-made website designs for every business.",
   // Free key from https://web3forms.com (enter your email, they send the key). Leave "" until you have it.
   web3formsKey: "",
