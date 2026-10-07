@@ -3,7 +3,7 @@ window.CONFIG = {
   storeName: "Waleed Web Studio",
   tagline: "Ready-made website designs for every business.",
   // Free key from https://web3forms.com (enter your email, they send the key). Leave "" until you have it.
-  web3formsKey: "b6fcf71b-a770-4630-83dd-f45378b9d178",
+  web3formsKey: "56e169d1-f215-4b47-9a1f-8f4b408bd78a",
   whatsapp: "",            // e.g. "923001234567" (country code, no +). Optional.
   ownerName: "Muhammad Waleed",
   ownerRole: "Founder",
