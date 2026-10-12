@@ -1,0 +1,70 @@
+{
+  "purpose": "Add Serein Atelier using templates/<slug>/ and document the actual file changes.",
+  "files": [
+    {
+      "path": "index.html",
+      "status": "null",
+      "change": "No changes."
+    },
+    {
+      "path": "templates.html",
+      "status": "null",
+      "change": "No changes."
+    },
+    {
+      "path": ".nojekyll",
+      "status": "null",
+      "change": "No changes."
+    },
+    {
+      "path": "js/config.js",
+      "status": "null",
+      "change": "No changes; store owner should replace placeholder store name before publishing."
+    },
+    {
+      "path": "js/templates-data.js",
+      "status": "CHANGED",
+      "change": "Added Serein Atelier template metadata, screenshot path, live demo path, category, and featured flag."
+    },
+    {
+      "path": "js/app.js",
+      "status": "CHANGED",
+      "change": "Made the homepage preview image clickable so it opens the actual demo when a preview URL exists."
+    },
+    {
+      "path": "css/style.css",
+      "status": "CHANGED",
+      "change": "Added styles for the linked preview image and keyboard focus."
+    },
+    {
+      "path": "assets/templates/serein-atelier-preview.jpg",
+      "status": "NEW",
+      "change": "Added homepage preview image used on template cards."
+    },
+    {
+      "path": "templates/serein-atelier/",
+      "status": "NEW",
+      "change": "Added the standalone perfume demo with its HTML, CSS, JavaScript, logo, favicon, and fragrance images."
+    },
+    {
+      "path": "templates/serein-atelier/index.html",
+      "status": "CHANGED",
+      "change": "Added canonical and social sharing metadata; existing title and description retained."
+    },
+    {
+      "path": "templates/serein-atelier/assets/preview.jpg",
+      "status": "NEW",
+      "change": "Added a copy of the homepage preview image for social sharing metadata."
+    },
+    {
+      "path": "SEO-REPORT.md",
+      "status": "NEW",
+      "change": "Added code-level SEO review, changes made, and post-publish checklist."
+    },
+    {
+      "path": "CHANGE-RECORD.md",
+      "status": "NEW",
+      "change": "Added human-readable record of changed, new, and unchanged files."
+    }
+  ]
+}
